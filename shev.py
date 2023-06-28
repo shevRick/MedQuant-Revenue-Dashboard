@@ -1,12 +1,12 @@
+[theme]
+base="dark"
+primaryColor="purple"
+
 import streamlit as st
 import plotly.express as px
 
-
-
 from pivot import PivotBuilder
 pivot_build = PivotBuilder()
-
-
 
 
 def dashboard(df_options):
