@@ -12,7 +12,7 @@ class PivotBuilder:
         repo : MedQuantRepository, optional
             Data source, by default MedQuantRepository()
         """
-        self.df = pd.read_csv('app.csv')
+        self.df = pd.read_csv('apps.csv')
         
     
     def query_df(self, query):
