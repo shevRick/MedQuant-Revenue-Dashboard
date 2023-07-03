@@ -1,0 +1,478 @@
+,diagnosis,uid,ward,Count
+0,Acute nasopharyngitis [common cold],XnWPNKPDxxo,Kwa Njenga Ward,2439
+1,Acute tonsillitis,arZgeTW65s5,Kawangware Ward,2243
+2,Acute pharyngitis,UJlaR99kRxm,Kayole South Ward,1537
+3,Gastritis - unspecified,t4Suo8Enc7T,Airbase Ward,1343
+4,Dental caries,O6JUPINK7vr,Hospital Ward,1225
+5,Acute upper respiratory infection - unspecified,lvETWuhiIMi,Mlango Kubwa,1054
+6,Essential (primary) hypertension,RRAEO9Ltfec,Roysambu Ward,814
+7,Allergic rhinitis - unspecified,arZgeTW65s5,Kawangware Ward,570
+8,Lumbago with sciatica - Dorsalgia,Qjd5eRv25sb,Lower Savanna Ward,565
+9,Hypertensive heart disease,BMzkWPbVOCH,Kayole Central Ward,535
+10,Unspecified diabetes mellitus,QhDd2LAuXAF,Parklands/highridge Ward,430
+11,Allergic contact dermatitis,ufzdiFbvPYg,Gatina Ward,409
+12,Gastritis and duodenitis,oYFOeehTMK2,Landimawe Ward,402
+13,Functional dyspepsia,KoIp1GKz0UI,Mwiki Ward,399
+14,Acute laryngitis - Acute laryngitis and tracheitis,dOQTHZsuaIb,Mathare North Ward,287
+15,Chronic nasopharyngitis - Chronic rhinitis,KhxCmDKgYMT,Dandora Area Ii Ward,281
+16,Acute laryngopharyngitis - Acute upper respiratory infections of multiple and unspecified sites,QhDd2LAuXAF,Parklands/highridge Ward,261
+17,Tinea corporis - Dermatophytosis,ETN4UDiD5y5,Kayole North Ward,242
+18,Type 2 diabetes mellitus,yXbOIljEz90,Kilimani Ward,239
+19,Dental caries - unspecified,Qjd5eRv25sb,Lower Savanna Ward,222
+20,Headache,sFC62axqvzl,Laini Saba Ward,198
+21,Cough,arZgeTW65s5,Kawangware Ward,193
+22,Calculus of lower urinary tract,DR0BSs3eYeC,Pangani Ward,192
+23,Amoebiasis,Nt7PPe0Vdou,Imara Daima Ward,190
+24,Acute tonsillitis - unspecified,LlDgh96665K,Huruma Ward,188
+25,Gastroenteritis and colitis of unspecified origin - Other gastroenteritis and colitis of infectious and unspecified origin,KhxCmDKgYMT,Dandora Area Ii Ward,182
+26,Atopic dermatitis,BMzkWPbVOCH,Kayole Central Ward,179
+27,Supervision of high-risk pregnancy,sFC62axqvzl,Laini Saba Ward,177
+28,Antenatal screening,GwVllI2Zdfe,Mihango Ward,169
+29,Pulpitis - Diseases of pulp and periapical tissues,arZgeTW65s5,Kawangware Ward,169
+30,Abdominal and pelvic pain,LR8RoEpERGM,California Ward,160
+31,Chronic gastritis - unspecified,bK37v9AMeU3,Ngando Ward,159
+32,Asthma,ZWRytukDvQ7,South C Ward,147
+33,Acute upper respiratory infections of multiple and unspecified sites,Ao5e4mVaq7w,Maringo/hamza Ward,143
+34,Other specified diabetes mellitus,HWHpeXSxVCb,Kangemi Ward,138
+35,Bacterial pneumonia - unspecified,WJ020FJI9yB,Kariobangi South Ward,127
+36,Chronic rhinitis,Qusks6YHAmd,Dandora Area I Ward,127
+37,Need for immunization against combinations of infectious diseases,WJ020FJI9yB,Kariobangi South Ward,126
+38,Need for immunization against other combinations of infectious diseases - Need for immunization against combinations of infectious diseases,ZWRytukDvQ7,South C Ward,120
+39,Supervision of normal pregnancy,bK37v9AMeU3,Ngando Ward,113
+40,Other abnormal uterine and vaginal bleeding,OaqOHmb6jNs,Upper Savanna Ward,113
+41,Urinary tract infection - site not specified,dOQTHZsuaIb,Mathare North Ward,112
+42,Anaemia - unspecified,LlDgh96665K,Huruma Ward,104
+43,Fever of other and unknown origin,ujYuDykrrXi,Mowlem Ward,102
+44,Cutaneous abscess - furuncle and carbuncle,ujYuDykrrXi,Mowlem Ward,100
+45,Gout - unspecified,CNKaaMOOKGn,Karura Ward,98
+46,Conjunctivitis,rj9COmxBpVr,Dandora Area Iv Ward,97
+47,Sciatica - Dorsalgia,aZGmpSZ2M0H,Njiru Ward,96
+48,Asthma - unspecified,CNKaaMOOKGn,Karura Ward,96
+49,Diabetes mellitus in pregnancy: Pre-existing diabetes mellitus - non-insulin-dependent,UJlaR99kRxm,Kayole South Ward,94
+50,Diabetes mellitus in pregnancy: Pre-existing diabetes mellitus - unspecified,r1YlC9GTC4S,Utalii Ward,92
+51,Mumps,ZWRytukDvQ7,South C Ward,92
+52,Alcoholic gastritis - Gastritis and duodenitis,tsmsPb6qMFa,Ngei Ward,87
+53,Malignant neoplasm of other and ill-defined sites: Abdomen - Malignant neoplasm of other and ill-defined sites,KoIp1GKz0UI,Mwiki Ward,86
+54,Allergic rhinitis due to pollen - Vasomotor and allergic rhinitis,r1YlC9GTC4S,Utalii Ward,77
+55,Acute vaginitis - Other inflammation of vagina and vulva,GwVllI2Zdfe,Mihango Ward,74
+56,Examination for period of rapid growth in childhood - General examination and investigation of persons without complaint and reported diagnosis,QhDd2LAuXAF,Parklands/highridge Ward,70
+57,Acute tonsillitis due to other specified organisms - Acute tonsillitis,x6E428s1HPf,Pumwani Ward,69
+58,Nausea and vomiting,OaqOHmb6jNs,Upper Savanna Ward,68
+59,Other acute gastritis - Gastritis and duodenitis,HWHpeXSxVCb,Kangemi Ward,65
+60,Neoplasm of uncertain or unknown behaviour: Connective and other soft tissue - Neoplasm of uncertain or unknown behaviour of other and unspecified sites,KJHG9zDp2UR,Nairobi Central Ward,64
+61,Adenoviral pneumonia - Viral pneumonia,bK37v9AMeU3,Ngando Ward,64
+62,Acute sinusitis,CNKaaMOOKGn,Karura Ward,63
+63,Chronic obstructive pulmonary disease with acute lower respiratory infection - Other chronic obstructive pulmonary disease,jaQjWqSJPAd,Uthiru/ruthimitu Ward,62
+64,Varicella [chickenpox],taVVtCXxo50,Lindi Ward,61
+65,Gout,UrLRfZeC3Oq,Dandora Area Iii Ward,56
+66,Acute pharyngitis - unspecified,LYgnp1wcewP,Nairobi South Ward,54
+67,Gastro-oesophageal reflux disease,ujYuDykrrXi,Mowlem Ward,53
+68,Disorders of tooth development and eruption,taVVtCXxo50,Lindi Ward,51
+69,Nonsuppurative otitis media,HvcGWkiIxjp,Kwa Reuben Ward,50
+70,Acute laryngitis and tracheitis,aZGmpSZ2M0H,Njiru Ward,50
+71,Eczema herpeticum - Herpesviral [herpes simplex] infections,UrLRfZeC3Oq,Dandora Area Iii Ward,49
+72,Other allergic rhinitis - Vasomotor and allergic rhinitis,r1YlC9GTC4S,Utalii Ward,46
+73,Arthritis - unspecified,raV5YKTRCG2,Embakasi Ward,45
+74,Bacterial pneumonia - not elsewhere classified,ETN4UDiD5y5,Kayole North Ward,45
+75,Other rheumatoid arthritis,aZGmpSZ2M0H,Njiru Ward,44
+76,Hereditary and idiopathic neuropathy,KJHG9zDp2UR,Nairobi Central Ward,44
+77,Chronic tonsillitis - Chronic diseases of tonsils and adenoids,CNKaaMOOKGn,Karura Ward,43
+78,Migraine,ZWRytukDvQ7,South C Ward,41
+79,Other urethritis - Urethritis and urethral syndrome,ZWRytukDvQ7,South C Ward,40
+80,Tinea pedis - Dermatophytosis,KoIp1GKz0UI,Mwiki Ward,39
+81,Gastroduodenitis - unspecified,ov2muONmDh8,Makongeni Ward,35
+82,Disorder of muscle - unspecified,WJ020FJI9yB,Kariobangi South Ward,35
+83,Unspecified acute lower respiratory infection,OObzseEJrMs,Babandogo,35
+84,Iron deficiency anaemia,tgAB60BL0u9,Kiamaiko Ward,34
+85,Other specified abnormal uterine and vaginal bleeding - Other abnormal uterine and vaginal bleeding,ZWRytukDvQ7,South C Ward,33
+86,Other secondary hypertension - Secondary hypertension,O6JUPINK7vr,Hospital Ward,33
+87,Dizziness and giddiness,xhXsdnqx3eX,Matopeni/spring Valley Ward,32
+88,Fibromyalgia - Other soft tissue disorders,Nt7PPe0Vdou,Imara Daima Ward,32
+89,Acne vulgaris - Acne,tZfKaFDQcdW,Makina Ward,31
+90,Female pelvic inflammatory disease - unspecified,Smgomyf1mXV,Woodley/kenyatta Golf Course Ward,29
+91,Chest pain - unspecified,dOQTHZsuaIb,Mathare North Ward,28
+92,Cellulitis,tZfKaFDQcdW,Makina Ward,27
+93,Leiomyoma of uterus,RRAEO9Ltfec,Roysambu Ward,27
+94,Impacted cerumen - Other disorders of external ear,rEwQxmUPoZE,Utawala Ward,26
+95,Fever - unspecified,xhXsdnqx3eX,Matopeni/spring Valley Ward,25
+96,Contraceptive management,TqSqq39Jbcz,Korogocho Ward,24
+97,Hyperplasia of prostate,dYniZG1Q7Tk,Sarang'ombe Ward,24
+98,Cramp and spasm - Abnormal involuntary movements,GwVllI2Zdfe,Mihango Ward,24
+99,Malignant neoplasm: Tonsil - unspecified,x6E428s1HPf,Pumwani Ward,23
+100,Other chest pain - Pain in throat and chest,aZGmpSZ2M0H,Njiru Ward,23
+101,Viral warts,x6E428s1HPf,Pumwani Ward,23
+102,Calculus of lower urinary tract - unspecified,HWHpeXSxVCb,Kangemi Ward,22
+103,Functional diarrhoea - Other functional intestinal disorders,LlDgh96665K,Huruma Ward,22
+104,Hypoparathyroidism,rj9COmxBpVr,Dandora Area Iv Ward,22
+105,Diabetes insipidus - Hypofunction and other disorders of pituitary gland,O6JUPINK7vr,Hospital Ward,22
+106,Diabetes mellitus in pregnancy: Pre-existing diabetes mellitus - insulin-dependent,HWHpeXSxVCb,Kangemi Ward,22
+107,Low back pain - Dorsalgia,arZgeTW65s5,Kawangware Ward,22
+108,Disorder of breast - unspecified,KhxCmDKgYMT,Dandora Area Ii Ward,22
+109,Iron deficiency - Deficiency of other nutrient elements,PTKcICD0k31,Riruta Ward,21
+110,Amoebiasis - unspecified,BMzkWPbVOCH,Kayole Central Ward,21
+111,Streptococcal tonsillitis - Acute tonsillitis,KoIp1GKz0UI,Mwiki Ward,21
+112,Candidiasis of vulva and vagina - Candidiasis,dOQTHZsuaIb,Mathare North Ward,20
+113,Other disorders of breast,DR0BSs3eYeC,Pangani Ward,20
+114,Impetigo,tsmsPb6qMFa,Ngei Ward,20
+115,Other arthritis,KoIp1GKz0UI,Mwiki Ward,20
+116,General medical examination - General examination and investigation of persons without complaint and reported diagnosis,rEwQxmUPoZE,Utawala Ward,20
+117,Cystitis,jaQjWqSJPAd,Uthiru/ruthimitu Ward,19
+118,Other superficial mycoses,HvcGWkiIxjp,Kwa Reuben Ward,19
+119,Gastroenteritis and colitis due to radiation - Other noninfective gastroenteritis and colitis,DnVTXbCnup5,Kileleshwa Ward,19
+120,Acute bronchiolitis,PTKcICD0k31,Riruta Ward,19
+121,Gastric ulcer,TqSqq39Jbcz,Korogocho Ward,19
+122,Recurrent oral aphthae - Stomatitis and related lesions,YMBLUc2euxC,Kariobangi North Ward,19
+123,Osteopetrosis - Other osteochondrodysplasias,x6E428s1HPf,Pumwani Ward,18
+124,Acute bronchitis due to streptococcus - Acute bronchitis,DnVTXbCnup5,Kileleshwa Ward,18
+125,Chronic serous otitis media - Nonsuppurative otitis media,XnWPNKPDxxo,Kwa Njenga Ward,18
+126,Bacterial infection - unspecified,rD8Z7AgYLaS,Mabatini Ward,17
+127,Otitis externa,ujYuDykrrXi,Mowlem Ward,17
+128,Crushing injuries involving multiple body regions,bF28Xs26tXA,Clay City,17
+129,Infections of genitourinary tract in pregnancy,rSGZNHDJ4jJ,Viwandani Ward,17
+130,Orchitis and epididymitis,taVVtCXxo50,Lindi Ward,17
+131,Abscess of vulva - Other inflammation of vagina and vulva,KhxCmDKgYMT,Dandora Area Ii Ward,17
+132,Female infertility,BMzkWPbVOCH,Kayole Central Ward,17
+133,Crushing injury of head,r1YlC9GTC4S,Utalii Ward,17
+134,Acute conjunctivitis - unspecified,ZWRytukDvQ7,South C Ward,17
+135,Acute atopic conjunctivitis - Conjunctivitis,QhDd2LAuXAF,Parklands/highridge Ward,17
+136,Chronic atrophic gastritis - Gastritis and duodenitis,CNKaaMOOKGn,Karura Ward,17
+137,Malaise and fatigue,RRAEO9Ltfec,Roysambu Ward,16
+138,Multiple open wounds of ankle and foot - Open wound of ankle and foot,ETN4UDiD5y5,Kayole North Ward,16
+139,Benign lipomatous neoplasm,sFC62axqvzl,Laini Saba Ward,16
+140,Abscess - furuncle and carbuncle of nose,cUX8GhsuLPn,Lucky Summer Ward,16
+141,Contusion of shoulder and upper arm - Superficial injury of shoulder and upper arm,ZWRytukDvQ7,South C Ward,16
+142,Arrested dental caries - Dental caries,i1zR9ESXM9L,Eastleigh North Ward,15
+143,Candidiasis,HvcGWkiIxjp,Kwa Reuben Ward,15
+144,Antifungal antibiotics - systemically used,bF28Xs26tXA,Clay City,15
+145,Acute suppurative otitis media - Suppurative and unspecified otitis media,Qusks6YHAmd,Dandora Area I Ward,15
+146,Secondary hypertension - unspecified,BMzkWPbVOCH,Kayole Central Ward,15
+147,Acne,dOQTHZsuaIb,Mathare North Ward,14
+148,Spondylosis,UrLRfZeC3Oq,Dandora Area Iii Ward,14
+149,Acute gingivitis - Gingivitis and periodontal diseases,bK37v9AMeU3,Ngando Ward,14
+150,Benign neoplasm: Tonsil - Benign neoplasm of mouth and pharynx,tZfKaFDQcdW,Makina Ward,14
+151,Other specified fever - Fever of other and unknown origin,HuBMlfYHHEy,Mutu-ini Ward,14
+152,Supervision of normal pregnancy - unspecified,rEwQxmUPoZE,Utawala Ward,14
+153,Routine general health check-up of defined subpopulation,I6S3XcUsF34,Komarock Ward,13
+154,Dietary calcium deficiency,Smgomyf1mXV,Woodley/kenyatta Golf Course Ward,13
+155,Rash and other nonspecific skin eruption,LR8RoEpERGM,California Ward,13
+156,Foreign body entering into or through eye or natural orifice,ihmR2IRWnpi,Kahawa,13
+157,Superficial mycosis - unspecified,UrLRfZeC3Oq,Dandora Area Iii Ward,13
+158,Peptic ulcer - site unspecified,UrLRfZeC3Oq,Dandora Area Iii Ward,13
+159,Gestational [pregnancy-induced] hypertension,CNKaaMOOKGn,Karura Ward,13
+160,Cervical disc disorders,Ao5e4mVaq7w,Maringo/hamza Ward,13
+161,Achilles tendinitis - Enthesopathies of lower limb,IDtR0R9o2Q4,Nyayo Highrise Ward,13
+162,Hypothyroidism - unspecified,ujYuDykrrXi,Mowlem Ward,13
+163,Disorders of initiating and maintaining sleep [insomnias] - Sleep disorders,gJel307q0y1,Kahawa West,12
+164,Neuralgia and neuritis - unspecified,Qusks6YHAmd,Dandora Area I Ward,12
+165,Mild hyperemesis gravidarum - Excessive vomiting in pregnancy,ufzdiFbvPYg,Gatina Ward,12
+166,Abdominal pregnancy - Ectopic pregnancy,Kzpb8gvmSkz,Kabiro Ward,12
+167,Retained dental root - Other disorders of teeth and supporting structures,Zmv9YmuisYs,Umoja I Ward,12
+168,Chronic mucoid otitis media - Nonsuppurative otitis media,Qjd5eRv25sb,Lower Savanna Ward,12
+169,Primary dysmenorrhoea - Pain and other conditions associated with female genital organs and menstrual cycle,A1sIHVzJM77,Kware Ward,12
+170,Other viral pneumonia - Viral pneumonia,rD8Z7AgYLaS,Mabatini Ward,12
+171,Mononeuropathy - unspecified,Qusks6YHAmd,Dandora Area I Ward,11
+172,Other specified pregnancy-related conditions - Maternal care for other conditions predominantly related to pregnancy,UJlaR99kRxm,Kayole South Ward,11
+173,Cellulitis - unspecified,HuBMlfYHHEy,Mutu-ini Ward,11
+174,Carcinoma in situ: Eye - Carcinoma in situ of other and unspecified sites,yXbOIljEz90,Kilimani Ward,11
+175,Calculus in urethra - Calculus of lower urinary tract,Qjd5eRv25sb,Lower Savanna Ward,11
+176,Inflammatory polyneuropathy,t4Suo8Enc7T,Airbase Ward,11
+177,Pregnancy confirmed - Pregnancy examination and test,ujYuDykrrXi,Mowlem Ward,11
+178,Acute lymphadenitis,HvcGWkiIxjp,Kwa Reuben Ward,11
+179,Candidiasis of other sites - Candidiasis,PTKcICD0k31,Riruta Ward,11
+180,Myositis - unspecified,tsmsPb6qMFa,Ngei Ward,11
+181,Helminthiasis - unspecified,vjOR4Xpi2TY,Pipeline Ward,11
+182,Other mononeuropathies,CNKaaMOOKGn,Karura Ward,11
+183,Other lower urinary tract calculus - Calculus of lower urinary tract,LlDgh96665K,Huruma Ward,10
+184,Gastro-oesophageal reflux disease with oesophagitis - Gastro-oesophageal reflux disease,XnWPNKPDxxo,Kwa Njenga Ward,10
+185,Thyrotoxicosis [hyperthyroidism],rEwQxmUPoZE,Utawala Ward,10
+186,Fracture at wrist and hand level,IDtR0R9o2Q4,Nyayo Highrise Ward,10
+187,Endometriosis,ufzdiFbvPYg,Gatina Ward,10
+188,General examination and investigation of persons without complaint and reported diagnosis,LlDgh96665K,Huruma Ward,10
+189,Obstetric pyaemic and septic embolism - Obstetric embolism,uPv6CYD6np2,Nairobi West Ward,10
+190,Chronic laryngitis - Chronic laryngitis and laryngotracheitis,nRw6kIlJ23L,Ziwani/kariokor,10
+191,Other specified noninfective gastroenteritis and colitis - Other noninfective gastroenteritis and colitis,TpTOC5VcUGe,Kitisuru Ward,10
+192,Chest pain on breathing - Pain in throat and chest,I6S3XcUsF34,Komarock Ward,10
+193,Other antenatal screening - Antenatal screening,gJel307q0y1,Kahawa West,10
+194,Hyperlipidaemia - unspecified,GwVllI2Zdfe,Mihango Ward,10
+195,Acute pharyngitis due to other specified organisms - Acute pharyngitis,gJel307q0y1,Kahawa West,10
+196,Malignant neoplasm: Connective and soft tissue - unspecified,bF28Xs26tXA,Clay City,9
+197,Chronic conjunctivitis - Conjunctivitis,ZWRytukDvQ7,South C Ward,9
+198,Unspecified infection of urinary tract in pregnancy - Infections of genitourinary tract in pregnancy,FNDsOKdbWTO,Githurai Ward,9
+199,Dentofacial anomalies [including malocclusion],BMzkWPbVOCH,Kayole Central Ward,9
+200,Acquired keratosis [keratoderma] palmaris et plantaris - Other epidermal thickening,LlDgh96665K,Huruma Ward,9
+201,Irregular menstruation - unspecified,O6JUPINK7vr,Hospital Ward,9
+202,Acute pain - Pain,KhxCmDKgYMT,Dandora Area Ii Ward,9
+203,Cellulitis of other sites - Cellulitis,XnWPNKPDxxo,Kwa Njenga Ward,9
+204,Other acute and subacute respiratory conditions due to chemicals - gases,UrLRfZeC3Oq,Dandora Area Iii Ward,9
+205,Sprain and strain of other and unspecified parts of knee - Dislocation,rj9COmxBpVr,Dandora Area Iv Ward,9
+206,Convulsions - not elsewhere classified,rD8Z7AgYLaS,Mabatini Ward,9
+207,Supervision of normal first pregnancy - Supervision of normal pregnancy,r1YlC9GTC4S,Utalii Ward,8
+208,Infections of bladder in pregnancy - Infections of genitourinary tract in pregnancy,r1YlC9GTC4S,Utalii Ward,8
+209,Infections of other parts of urinary tract in pregnancy - Infections of genitourinary tract in pregnancy,bK37v9AMeU3,Ngando Ward,8
+210,Other specified soft tissue disorders - Other soft tissue disorders,Kzpb8gvmSkz,Kabiro Ward,8
+211,Heart disease - unspecified,bF28Xs26tXA,Clay City,8
+212,Disorder of external ear - unspecified,LR8RoEpERGM,California Ward,8
+213,Poisoning: Anthelminthics - Poisoning by other systemic anti-infectives and antiparasitics,rD8Z7AgYLaS,Mabatini Ward,8
+214,Streptococcal pharyngitis - Acute pharyngitis,taVVtCXxo50,Lindi Ward,8
+215,Congenital posterior urethral valves - Other congenital malformations of urinary system,RRAEO9Ltfec,Roysambu Ward,8
+216,Acute bronchitis,uPv6CYD6np2,Nairobi West Ward,8
+217,Open wound of ankle and foot,t4Suo8Enc7T,Airbase Ward,8
+218,Varicose veins of lower extremities,YMBLUc2euxC,Kariobangi North Ward,8
+219,Pneumonia due to Streptococcus pneumoniae,jaQjWqSJPAd,Uthiru/ruthimitu Ward,8
+220,Other postsurgical states,Qjd5eRv25sb,Lower Savanna Ward,8
+221,Multiple open wounds - unspecified,OObzseEJrMs,Babandogo,8
+222,Chronic superficial gastritis - Gastritis and duodenitis,raV5YKTRCG2,Embakasi Ward,8
+223,Constipation - Other functional intestinal disorders,Nt7PPe0Vdou,Imara Daima Ward,8
+224,Chronic post-traumatic headache - Other headache syndromes,Nt7PPe0Vdou,Imara Daima Ward,7
+225,Dislocation of knee - Dislocation,I6S3XcUsF34,Komarock Ward,7
+226,Fibroadenosis of breast - Benign mammary dysplasia,ivNrlSMRNra,Umoja Ii Ward,7
+227,Juvenile arthritis,Smgomyf1mXV,Woodley/kenyatta Golf Course Ward,7
+228,Supervision of high-risk pregnancy - unspecified,ov2muONmDh8,Makongeni Ward,7
+229,Acne conglobata - Acne,TqSqq39Jbcz,Korogocho Ward,7
+230,Otitis media in diseases classified elsewhere,HWHpeXSxVCb,Kangemi Ward,7
+231,Unspecified injury of shoulder and upper arm - Other and unspecified injuries of shoulder and upper arm,x6E428s1HPf,Pumwani Ward,7
+232,Disease of upper respiratory tract - unspecified,YMBLUc2euxC,Kariobangi North Ward,7
+233,Antenatal screening - unspecified,m3CPhYAMMRN,Zimmerman Ward,7
+234,Acute sinusitis - unspecified,clyAqa9XVNp,Karen Ward,7
+235,Other bacterial pneumonia - Bacterial pneumonia,sFC62axqvzl,Laini Saba Ward,7
+236,Trichomoniasis,bF28Xs26tXA,Clay City,7
+237,Other soft tissue disorders - not elsewhere classified,GwVllI2Zdfe,Mihango Ward,7
+238,Acute vulvitis - Other inflammation of vagina and vulva,HWHpeXSxVCb,Kangemi Ward,7
+239,Other specified urinary incontinence - Other disorders of urinary system,OObzseEJrMs,Babandogo,7
+240,Other iron deficiency anaemias - Iron deficiency anaemia,ETN4UDiD5y5,Kayole North Ward,7
+241,Other streptococcal sepsis - Streptococcal sepsis,xhXsdnqx3eX,Matopeni/spring Valley Ward,7
+242,Tubulo-interstitial nephritis - not specified as acute or chronic,TqSqq39Jbcz,Korogocho Ward,7
+243,Suppurative and unspecified otitis media,vjOR4Xpi2TY,Pipeline Ward,7
+244,Other specified mononeuropathies - Other mononeuropathies,LR8RoEpERGM,California Ward,6
+245,Urethral abscess - Urethritis and urethral syndrome,gJel307q0y1,Kahawa West,6
+246,Irritable bowel syndrome,KoIp1GKz0UI,Mwiki Ward,6
+247,Other specified rheumatoid arthritis - Other rheumatoid arthritis,BMzkWPbVOCH,Kayole Central Ward,6
+248,Other acute nonsuppurative otitis media - Nonsuppurative otitis media,ov2muONmDh8,Makongeni Ward,6
+249,Unspecified malaria,UrLRfZeC3Oq,Dandora Area Iii Ward,6
+250,Unspecified injury of ankle and foot - Other and unspecified injuries of ankle and foot,DnVTXbCnup5,Kileleshwa Ward,6
+251,Male infertility,m3CPhYAMMRN,Zimmerman Ward,6
+252,Multiple open wounds of forearm - Open wound of forearm,QKZyfxaG8EJ,Ngara Ward Ward,6
+253,Myalgia - Other soft tissue disorders,i1zR9ESXM9L,Eastleigh North Ward,6
+254,Stroke - not specified as haemorrhage or infarction,CNKaaMOOKGn,Karura Ward,6
+255,Nonpurulent mastitis associated with childbirth - Infections of breast associated with childbirth,bF28Xs26tXA,Clay City,6
+256,Other headache syndromes,yXbOIljEz90,Kilimani Ward,6
+257,Other chronic suppurative otitis media - Suppurative and unspecified otitis media,pUKcRGZTyGW,Waithaka Ward,6
+258,Other and unspecified injuries of ankle and foot,m3CPhYAMMRN,Zimmerman Ward,6
+259,Open wound of knee - Open wound of lower leg,OaqOHmb6jNs,Upper Savanna Ward,6
+260,Haemorrhoids and perianal venous thrombosis,WJ020FJI9yB,Kariobangi South Ward,6
+261,Inflammatory disorders of breast,I6S3XcUsF34,Komarock Ward,6
+262,Abscess of external ear - Otitis externa,yXbOIljEz90,Kilimani Ward,6
+263,Acute laryngotracheitis - Acute laryngitis and tracheitis,ivNrlSMRNra,Umoja Ii Ward,6
+264,Acute pancreatitis,Ao5e4mVaq7w,Maringo/hamza Ward,6
+265,Congenital hiatus hernia - Other congenital malformations of upper alimentary tract,UJlaR99kRxm,Kayole South Ward,6
+266,Cellulitis of other parts of limb - Cellulitis,GwVllI2Zdfe,Mihango Ward,6
+267,Acute bronchiolitis due to respiratory syncytial virus - Acute bronchiolitis,KoIp1GKz0UI,Mwiki Ward,6
+268,Cardiomyopathy,t4Suo8Enc7T,Airbase Ward,6
+269,Acute abdomen - Abdominal and pelvic pain,r1YlC9GTC4S,Utalii Ward,6
+270,Acquired haemolytic anaemia,aZGmpSZ2M0H,Njiru Ward,6
+271,Dysuria - Pain associated with micturition,ufzdiFbvPYg,Gatina Ward,6
+272,Dyspnoea - Abnormalities of breathing,rEwQxmUPoZE,Utawala Ward,6
+273,Female pelvic inflammatory disorders in diseases classified elsewhere,dYniZG1Q7Tk,Sarang'ombe Ward,6
+274,Ascariasis,yXbOIljEz90,Kilimani Ward,6
+275,Herpes gestationis - Maternal care for other conditions predominantly related to pregnancy,sFC62axqvzl,Laini Saba Ward,6
+276,Cholelithiasis,DnVTXbCnup5,Kileleshwa Ward,6
+277,Disorder of urinary system - unspecified,YMBLUc2euxC,Kariobangi North Ward,6
+278,Impacted teeth - Embedded and impacted teeth,QKZyfxaG8EJ,Ngara Ward Ward,6
+279,Bullous keratopathy - Other disorders of cornea,RRAEO9Ltfec,Roysambu Ward,6
+280,Dislocation - sprain and strain of joints and ligaments of knee,i1zR9ESXM9L,Eastleigh North Ward,6
+281,Diabetic mononeuropathy - Mononeuropathy in diseases classified elsewhere,vjOR4Xpi2TY,Pipeline Ward,6
+282,Corns and callosities,TqSqq39Jbcz,Korogocho Ward,6
+283,Anal spasm - Other functional intestinal disorders,xhXsdnqx3eX,Matopeni/spring Valley Ward,5
+284,Depressive episode,Kzpb8gvmSkz,Kabiro Ward,5
+285,Excessive vomiting in pregnancy,RRAEO9Ltfec,Roysambu Ward,5
+286,Need for immunization against certain single viral diseases,QhDd2LAuXAF,Parklands/highridge Ward,5
+287,Crushing injury of thumb and other finger(s) - Crushing injury of wrist and hand,TpTOC5VcUGe,Kitisuru Ward,5
+288,Supervision of other normal pregnancy - Supervision of normal pregnancy,nRw6kIlJ23L,Ziwani/kariokor,5
+289,Other anxiety disorders,Nt7PPe0Vdou,Imara Daima Ward,5
+290,Other otitis externa - Otitis externa,zP3xgQdPmJX,Eastleigh South Ward,5
+291,Noninfective gastroenteritis and colitis - unspecified,QhDd2LAuXAF,Parklands/highridge Ward,5
+292,Redundant prepuce - phimosis and paraphimosis,tgAB60BL0u9,Kiamaiko Ward,5
+293,Contusion of elbow - Superficial injury of forearm,tZfKaFDQcdW,Makina Ward,5
+294,Nonspecific urethritis - Urethritis and urethral syndrome,rSGZNHDJ4jJ,Viwandani Ward,5
+295,Sprain and strain of hip - Dislocation,rSGZNHDJ4jJ,Viwandani Ward,5
+296,Other disorders of white blood cells,uPv6CYD6np2,Nairobi West Ward,5
+297,Asymptomatic neurosyphilis - Late syphilis,UJlaR99kRxm,Kayole South Ward,5
+298,Routine general health check-up of other defined subpopulations - Routine general health check-up of defined subpopulation,UrLRfZeC3Oq,Dandora Area Iii Ward,5
+299,Other disorders of prostate,RRAEO9Ltfec,Roysambu Ward,5
+300,Contusion of hip - Superficial injury of hip and thigh,O6JUPINK7vr,Hospital Ward,5
+301,Disruption of operation wound - not elsewhere classified,oYFOeehTMK2,Landimawe Ward,5
+302,Other disorders of urinary system,t4Suo8Enc7T,Airbase Ward,5
+303,Open wound of wrist and hand,RRAEO9Ltfec,Roysambu Ward,5
+304,Alopecia areata,O6JUPINK7vr,Hospital Ward,5
+305,Crushing injury of elbow - Crushing injury of forearm,TqSqq39Jbcz,Korogocho Ward,5
+306,Muscle strain - Other disorders of muscle,xhXsdnqx3eX,Matopeni/spring Valley Ward,5
+307,Acute appendicitis,uPv6CYD6np2,Nairobi West Ward,5
+308,Injury - unspecified,bK37v9AMeU3,Ngando Ward,5
+309,Abdominal rigidity - Other symptoms and signs involving the digestive system and abdomen,bF28Xs26tXA,Clay City,5
+310,Bronchopneumonia - unspecified,sFC62axqvzl,Laini Saba Ward,5
+311,Injury of urethra - Injury of urinary and pelvic organs,tZfKaFDQcdW,Makina Ward,5
+312,Internal derangement of knee,YMBLUc2euxC,Kariobangi North Ward,5
+313,Varicella without complication - Varicella [chickenpox],A1sIHVzJM77,Kware Ward,5
+314,Burn and corrosion of wrist and hand,WJ020FJI9yB,Kariobangi South Ward,5
+315,Keratoderma in diseases classified elsewhere,vjOR4Xpi2TY,Pipeline Ward,5
+316,Leiomyoma of uterus - unspecified,UrLRfZeC3Oq,Dandora Area Iii Ward,5
+317,Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens] - not elsewhere classified,LlDgh96665K,Huruma Ward,5
+318,Candidiasis of skin and nail - Candidiasis,Nt7PPe0Vdou,Imara Daima Ward,5
+319,Glaucoma in endocrine - nutritional and metabolic diseases,Kzpb8gvmSkz,Kabiro Ward,5
+320,Unspecified sexually transmitted disease,IDtR0R9o2Q4,Nyayo Highrise Ward,5
+321,Type 1 diabetes mellitus: With unspecified complications - Type 1 diabetes mellitus,Qusks6YHAmd,Dandora Area I Ward,5
+322,Multiple fractures of fingers - Fracture at wrist and hand level,dOQTHZsuaIb,Mathare North Ward,5
+323,First degree haemorrhoids - Haemorrhoids and perianal venous thrombosis,Nt7PPe0Vdou,Imara Daima Ward,5
+324,Tinea manuum - Dermatophytosis,ujYuDykrrXi,Mowlem Ward,5
+325,Bitten by rat,m3CPhYAMMRN,Zimmerman Ward,5
+326,Benign neoplasm of soft tissue of retroperitoneum and peritoneum,oYFOeehTMK2,Landimawe Ward,5
+327,Pneumonia in mycoses - Pneumonia in diseases classified elsewhere,TpTOC5VcUGe,Kitisuru Ward,4
+328,Chronic frontal sinusitis - Chronic sinusitis,uPv6CYD6np2,Nairobi West Ward,4
+329,Polyneuropathy - unspecified,PTKcICD0k31,Riruta Ward,4
+330,Pityriasis versicolor - Other superficial mycoses,LR8RoEpERGM,California Ward,4
+331,Single spontaneous delivery,CNKaaMOOKGn,Karura Ward,4
+332,Other disorders of ear in diseases classified elsewhere,ZWRytukDvQ7,South C Ward,4
+333,Other disorders of middle ear and mastoid,Qjd5eRv25sb,Lower Savanna Ward,4
+334,Primary generalized (osteo)arthrosis - Polyarthrosis,Smgomyf1mXV,Woodley/kenyatta Golf Course Ward,4
+335,Contusion of ankle - Superficial injury of ankle and foot,GwVllI2Zdfe,Mihango Ward,4
+336,Plantar fascial fibromatosis - Fibroblastic disorders,lvETWuhiIMi,Mlango Kubwa,4
+337,Cervical disc disorder - unspecified,vjOR4Xpi2TY,Pipeline Ward,4
+338,Burn and corrosion - body region unspecified,HuBMlfYHHEy,Mutu-ini Ward,4
+339,Burn and corrosion of ankle and foot,jaQjWqSJPAd,Uthiru/ruthimitu Ward,4
+340,Polymyalgia rheumatica - Other systemic involvement of connective tissue,QKZyfxaG8EJ,Ngara Ward Ward,4
+341,Bitten or struck by dog,TpTOC5VcUGe,Kitisuru Ward,4
+342,Bladder disorders in diseases classified elsewhere,eVnnqyuwBfa,Kasarani Ward,4
+343,Other noninfective gastroenteritis and colitis,KoIp1GKz0UI,Mwiki Ward,4
+344,Other soft tissue disorders related to use - overuse and pressure,xhXsdnqx3eX,Matopeni/spring Valley Ward,4
+345,Other special examinations and investigations of persons without complaint or reported diagnosis,cUX8GhsuLPn,Lucky Summer Ward,4
+346,Open wound of scalp - Open wound of head,ihmR2IRWnpi,Kahawa,4
+347,Synovitis and tenosynovitis,nRw6kIlJ23L,Ziwani/kariokor,4
+348,Supervision of other high-risk pregnancies - Supervision of high-risk pregnancy,bK37v9AMeU3,Ngando Ward,4
+349,Acute myringitis - Other disorders of tympanic membrane,TqSqq39Jbcz,Korogocho Ward,4
+350,Tinea barbae and tinea capitis - Dermatophytosis,I6S3XcUsF34,Komarock Ward,4
+351,Fracture of lumbar vertebra - Fracture of lumbar spine and pelvis,A1sIHVzJM77,Kware Ward,4
+352,Acute hepatitis B,oFPmL4TCoWb,Mugumo-ini Ward,4
+353,Tinea unguium - Dermatophytosis,RRAEO9Ltfec,Roysambu Ward,4
+354,Fracture of shoulder and upper arm,aZGmpSZ2M0H,Njiru Ward,4
+355,Acute gastroenteropathy due to Norwalk agent - Viral and other specified intestinal infections,uPv6CYD6np2,Nairobi West Ward,4
+356,Gingivitis and periodontal diseases,Nt7PPe0Vdou,Imara Daima Ward,4
+357,Malignant neoplasm of liver and intrahepatic bile ducts,XnWPNKPDxxo,Kwa Njenga Ward,4
+358,Acne keloid - Other follicular disorders,LlDgh96665K,Huruma Ward,4
+359,Helicobacter pylori [H.pylori] as the cause of diseases classified to other chapters - Other specified infectious agents as the cause of diseases classified to other chapters,nRw6kIlJ23L,Ziwani/kariokor,4
+360,Unspecified soft tissue disorder related to use - overuse and pressure,LR8RoEpERGM,California Ward,4
+361,Irritative hyperplasia of oral mucosa - Other diseases of lip and oral mucosa,HuBMlfYHHEy,Mutu-ini Ward,4
+362,Abscess of Bartholin gland - Diseases of Bartholin gland,QKZyfxaG8EJ,Ngara Ward Ward,4
+363,Infections of urethra in pregnancy - Infections of genitourinary tract in pregnancy,Wrx3LFjULLl,Mountain View Ward,4
+364,Internal derangement of knee - unspecified,Ao5e4mVaq7w,Maringo/hamza Ward,4
+365,Injury of ovary - Injury of urinary and pelvic organs,vjOR4Xpi2TY,Pipeline Ward,4
+366,Tear of articular cartilage of knee - current,RRAEO9Ltfec,Roysambu Ward,4
+367,Paraesthesia of skin - Disturbances of skin sensation,WJ020FJI9yB,Kariobangi South Ward,4
+368,Anal polyp - Other diseases of anus and rectum,GwVllI2Zdfe,Mihango Ward,4
+369,Other abdominal hernia,HvcGWkiIxjp,Kwa Reuben Ward,4
+370,Open wound of upper arm - Open wound of shoulder and upper arm,arZgeTW65s5,Kawangware Ward,4
+371,Blighted ovum and nonhydatidiform mole - Other abnormal products of conception,DR0BSs3eYeC,Pangani Ward,4
+372,Delivery by elective caesarean section - Single delivery by caesarean section,T7AinNTWtXe,Harambee Ward,4
+373,Nontoxic goitre - unspecified,tsmsPb6qMFa,Ngei Ward,4
+374,Alcoholic fatty liver - Alcoholic liver disease,QhDd2LAuXAF,Parklands/highridge Ward,4
+375,Superficial injury of wrist and hand - unspecified,KhxCmDKgYMT,Dandora Area Ii Ward,4
+376,Sprain and strain of ankle - Dislocation,OaqOHmb6jNs,Upper Savanna Ward,4
+377,Disruption of caesarean section wound - Complications of the puerperium,PTKcICD0k31,Riruta Ward,4
+378,Acute periodontitis - Gingivitis and periodontal diseases,ufzdiFbvPYg,Gatina Ward,4
+379,Viral vaccines - Other and unspecified vaccines and biological substances,oYFOeehTMK2,Landimawe Ward,3
+380,Spontaneous abortion,CNKaaMOOKGn,Karura Ward,3
+381,Anomalies of dental arch relationship - Dentofacial anomalies [including malocclusion],bF28Xs26tXA,Clay City,3
+382,Sepsis - unspecified,IDtR0R9o2Q4,Nyayo Highrise Ward,3
+383,Vulvovaginal ulceration and inflammation in diseases classified elsewhere,vjOR4Xpi2TY,Pipeline Ward,3
+384,Personal history of allergy to unspecified drugs - medicaments and biological substances,Qjd5eRv25sb,Lower Savanna Ward,3
+385,Abnormal bowel sounds - Other symptoms and signs involving the digestive system and abdomen,wskDg8KQ0v3,Ruai Ward,3
+386,Benign intracranial hypertension - Other disorders of brain,vjOR4Xpi2TY,Pipeline Ward,3
+387,Pyonephrosis - Obstructive and reflux uropathy,Ao5e4mVaq7w,Maringo/hamza Ward,3
+388,Adverse effects - not elsewhere classified,LYgnp1wcewP,Nairobi South Ward,3
+389,Primary amenorrhoea - Absent,Smgomyf1mXV,Woodley/kenyatta Golf Course Ward,3
+390,Acute sphenoidal sinusitis - Acute sinusitis,UrLRfZeC3Oq,Dandora Area Iii Ward,3
+391,Bell palsy - Facial nerve disorders,Zmv9YmuisYs,Umoja I Ward,3
+392,Acute salpingitis and oophoritis - Salpingitis and oophoritis,HuBMlfYHHEy,Mutu-ini Ward,3
+393,Acute prostatitis - Inflammatory diseases of prostate,tZfKaFDQcdW,Makina Ward,3
+394,Simple schizophrenia - Schizophrenia,UrLRfZeC3Oq,Dandora Area Iii Ward,3
+395,Pruritus - unspecified,ov2muONmDh8,Makongeni Ward,3
+396,Ankylosing spondylitis,zP3xgQdPmJX,Eastleigh South Ward,3
+397,Chronic periodontitis - Gingivitis and periodontal diseases,jaQjWqSJPAd,Uthiru/ruthimitu Ward,3
+398,Palpitations - Abnormalities of heart beat,GwVllI2Zdfe,Mihango Ward,3
+399,Cutaneous abscess - furuncle and carbuncle of other sites,taVVtCXxo50,Lindi Ward,3
+400,Open wound of breast - Open wound of thorax,KJHG9zDp2UR,Nairobi Central Ward,3
+401,Nonsuppurative otitis media - unspecified,Smgomyf1mXV,Woodley/kenyatta Golf Course Ward,3
+402,Pain in throat - Pain in throat and chest,pUKcRGZTyGW,Waithaka Ward,3
+403,Noninfective neonatal diarrhoea - Other perinatal digestive system disorders,QKZyfxaG8EJ,Ngara Ward Ward,3
+404,Epilepsy,t4Suo8Enc7T,Airbase Ward,3
+405,Erosive (osteo)arthrosis - Polyarthrosis,r1YlC9GTC4S,Utalii Ward,3
+406,Neonatal infective mastitis - Other infections specific to the perinatal period,lvETWuhiIMi,Mlango Kubwa,3
+407,Excessive - frequent and irregular menstruation,GwVllI2Zdfe,Mihango Ward,3
+408,Excessive bleeding in the premenopausal period - Excessive,oYFOeehTMK2,Landimawe Ward,3
+409,Nail disorder - unspecified,Wrx3LFjULLl,Mountain View Ward,3
+410,Facial nerve disorders,t4Suo8Enc7T,Airbase Ward,3
+411,Foreign body in bronchus - Foreign body in respiratory tract,eVnnqyuwBfa,Kasarani Ward,3
+412,Multiple open wounds of abdomen - lower back and pelvis,vjOR4Xpi2TY,Pipeline Ward,3
+413,Multiple injuries of ankle and foot - Other and unspecified injuries of ankle and foot,T7AinNTWtXe,Harambee Ward,3
+414,Fracture of shaft of radius - Fracture of forearm,raV5YKTRCG2,Embakasi Ward,3
+415,Fracture of thumb - Fracture at wrist and hand level,zP3xgQdPmJX,Eastleigh South Ward,3
+416,Generalized oedema - Oedema,taVVtCXxo50,Lindi Ward,3
+417,Lumbar and other intervertebral disc disorders with radiculopathy - Other intervertebral disc disorders,UrLRfZeC3Oq,Dandora Area Iii Ward,3
+418,Haematoma of obstetric wound - Complications of the puerperium,pUKcRGZTyGW,Waithaka Ward,3
+419,Localized oedema - Oedema,yXbOIljEz90,Kilimani Ward,3
+420,Leukoplakia and other disturbances of oral epithelium - including tongue,ov2muONmDh8,Makongeni Ward,3
+421,Irritable bowel syndrome with diarrhoea - Irritable bowel syndrome,x6E428s1HPf,Pumwani Ward,3
+422,Hypertension secondary to endocrine disorders - Secondary hypertension,HuBMlfYHHEy,Mutu-ini Ward,3
+423,Injury of muscle and tendon at shoulder and upper arm level,dOQTHZsuaIb,Mathare North Ward,3
+424,Injury of liver or gallbladder - Injury of intra-abdominal organs,KhxCmDKgYMT,Dandora Area Ii Ward,3
+425,Open wound of vagina and vulva - Open wound of abdomen,A1sIHVzJM77,Kware Ward,3
+426,Enlarged and hypertrophic nails - Other congenital malformations of integument,tgAB60BL0u9,Kiamaiko Ward,3
+427,Other hypothyroidism,bK37v9AMeU3,Ngando Ward,3
+428,Otitis externa - unspecified,PTKcICD0k31,Riruta Ward,3
+429,Crushing injury of other parts of forearm - Crushing injury of forearm,nRw6kIlJ23L,Ziwani/kariokor,3
+430,Crushing injury of shoulder and upper arm,OaqOHmb6jNs,Upper Savanna Ward,3
+431,Chronic rhinitis - nasopharyngitis and pharyngitis,LR8RoEpERGM,California Ward,3
+432,Other medical care,RRAEO9Ltfec,Roysambu Ward,3
+433,Cellulitis of finger and toe - Cellulitis,r1YlC9GTC4S,Utalii Ward,3
+434,Chlamydial infection of lower genitourinary tract - Other sexually transmitted chlamydial diseases,jaQjWqSJPAd,Uthiru/ruthimitu Ward,3
+435,Other hypertrophic osteoarthropathy - Other disorders of bone,ivNrlSMRNra,Umoja Ii Ward,3
+436,Crushing injury of wrist and hand,DnVTXbCnup5,Kileleshwa Ward,2
+437,Acute cystitis - Cystitis,A1sIHVzJM77,Kware Ward,2
+438,Malignant neoplasm: Peripheral nerves of lower limb - including hip,GwVllI2Zdfe,Mihango Ward,2
+439,Other specified diseases of upper respiratory tract - Other diseases of upper respiratory tract,LR8RoEpERGM,California Ward,2
+440,Acute apical periodontitis of pulpal origin - Diseases of pulp and periapical tissues,WJ020FJI9yB,Kariobangi South Ward,2
+441,Acute amoebic dysentery - Amoebiasis,QhDd2LAuXAF,Parklands/highridge Ward,2
+442,Gonarthrosis [arthrosis of knee],KhxCmDKgYMT,Dandora Area Ii Ward,2
+443,Other specified injuries of neck - Other and unspecified injuries of neck,dYniZG1Q7Tk,Sarang'ombe Ward,2
+444,Other specified disorders of urinary system - Other disorders of urinary system,HWHpeXSxVCb,Kangemi Ward,2
+445,Local antifungal - anti-infective and anti-inflammatory drugs,Nt7PPe0Vdou,Imara Daima Ward,2
+446,Polycystic ovarian syndrome - Ovarian dysfunction,YMBLUc2euxC,Kariobangi North Ward,2
+447,Hyperemesis gravidarum with metabolic disturbance - Excessive vomiting in pregnancy,HuBMlfYHHEy,Mutu-ini Ward,2
+448,Urticaria,ivNrlSMRNra,Umoja Ii Ward,2
+449,Candidiasis of other urogenital sites - Candidiasis,ZWRytukDvQ7,South C Ward,2
+450,Calcaneal spur - Other enthesopathies,tZfKaFDQcdW,Makina Ward,2
+451,Idiopathic progressive neuropathy - Hereditary and idiopathic neuropathy,yXbOIljEz90,Kilimani Ward,2
+452,Burns classified according to extent of body surface involved,Kzpb8gvmSkz,Kabiro Ward,2
+453,Chalazion - Hordeolum and chalazion,BMzkWPbVOCH,Kayole Central Ward,2
+454,Benign neoplasm of ovary,r1YlC9GTC4S,Utalii Ward,2
+455,Other sepsis,TpTOC5VcUGe,Kitisuru Ward,2
+456,Neoplasm of uncertain or unknown behaviour: Skin - Neoplasm of uncertain or unknown behaviour of other and unspecified sites,QhDd2LAuXAF,Parklands/highridge Ward,2
+457,Dermatophytosis,sFC62axqvzl,Laini Saba Ward,2
+458,Sprain and strain of other and unspecified parts of lumbar spine and pelvis - Dislocation,x6E428s1HPf,Pumwani Ward,2
+459,Staphylococcal scalded skin syndrome,ZWRytukDvQ7,South C Ward,2
+460,Septic shock - Shock,bK37v9AMeU3,Ngando Ward,2
+461,Superficial injury of wrist and hand,HuBMlfYHHEy,Mutu-ini Ward,2
+462,Fracture of femur,raV5YKTRCG2,Embakasi Ward,2
+463,Epidural haemorrhage - Intracranial injury,nRw6kIlJ23L,Ziwani/kariokor,2
+464,Atrophy of breast - Other disorders of breast,bF28Xs26tXA,Clay City,2
+465,Acute obstructive laryngitis [croup] - Acute obstructive laryngitis [croup] and epiglottitis,XnWPNKPDxxo,Kwa Njenga Ward,2
+466,Multiple open wounds of head - Open wound of head,x6E428s1HPf,Pumwani Ward,2
+467,Inguinal hernia,KoIp1GKz0UI,Mwiki Ward,2
+468,Zoster [herpes zoster],lvETWuhiIMi,Mlango Kubwa,2
+469,Other gastroenteritis and colitis of infectious and unspecified origin,UrLRfZeC3Oq,Dandora Area Iii Ward,1
+470,Other diseases of stomach and duodenum,Qjd5eRv25sb,Lower Savanna Ward,1
+471,Other dentofacial anomalies - Dentofacial anomalies [including malocclusion],LYgnp1wcewP,Nairobi South Ward,1
+472,Other local infections of skin and subcutaneous tissue,Qjd5eRv25sb,Lower Savanna Ward,1
+473,Irritant contact dermatitis,m3CPhYAMMRN,Zimmerman Ward,1
+474,Other dental caries - Dental caries,Ao5e4mVaq7w,Maringo/hamza Ward,1
+475,Open wound of hip and thigh,Qusks6YHAmd,Dandora Area I Ward,1
+476,Ganglion - Other disorders of synovium and tendon,oFPmL4TCoWb,Mugumo-ini Ward,1
